@@ -48,7 +48,7 @@
 #### -> 데이터를 새로 생성할 때 주로 사용한다.
 
 ```html
-<form>태그의 methdo 속성에서 POST 방식임을 명시하고, action 속성에서 입력값을 전송받을 JSP페이지를 지정한다.
+<form>태그의 method 속성에서 POST 방식임을 명시하고, action 속성에서 입력값을 전송받을 JSP페이지를 지정한다.
 
 <input>태그의 name 속성값이 입력값을 받는 JSP 페이지에게넌 POST 파라미터의 이름이 된다.
 
